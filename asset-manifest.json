@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/sf-apartment-prices/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/sf-apartment-prices/static/js/main.da66c208.chunk.js",
-    "main.js.map": "/sf-apartment-prices/static/js/main.da66c208.chunk.js.map",
-    "runtime-main.js": "/sf-apartment-prices/static/js/runtime-main.9f0f3bc5.js",
-    "runtime-main.js.map": "/sf-apartment-prices/static/js/runtime-main.9f0f3bc5.js.map",
-    "static/js/2.9757d05b.chunk.js": "/sf-apartment-prices/static/js/2.9757d05b.chunk.js",
-    "static/js/2.9757d05b.chunk.js.map": "/sf-apartment-prices/static/js/2.9757d05b.chunk.js.map",
-    "static/js/3.63902f73.chunk.js": "/sf-apartment-prices/static/js/3.63902f73.chunk.js",
-    "static/js/3.63902f73.chunk.js.map": "/sf-apartment-prices/static/js/3.63902f73.chunk.js.map",
+    "main.js": "/sf-apartment-prices/static/js/main.7157e8ae.chunk.js",
+    "main.js.map": "/sf-apartment-prices/static/js/main.7157e8ae.chunk.js.map",
+    "runtime-main.js": "/sf-apartment-prices/static/js/runtime-main.67adc5cf.js",
+    "runtime-main.js.map": "/sf-apartment-prices/static/js/runtime-main.67adc5cf.js.map",
+    "static/css/2.a95be28f.chunk.css": "/sf-apartment-prices/static/css/2.a95be28f.chunk.css",
+    "static/js/2.2acdd788.chunk.js": "/sf-apartment-prices/static/js/2.2acdd788.chunk.js",
+    "static/js/2.2acdd788.chunk.js.map": "/sf-apartment-prices/static/js/2.2acdd788.chunk.js.map",
+    "static/js/3.4692b195.chunk.js": "/sf-apartment-prices/static/js/3.4692b195.chunk.js",
+    "static/js/3.4692b195.chunk.js.map": "/sf-apartment-prices/static/js/3.4692b195.chunk.js.map",
     "index.html": "/sf-apartment-prices/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/sf-apartment-prices/static/css/2.a95be28f.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/sf-apartment-prices/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.9757d05b.chunk.js.LICENSE.txt": "/sf-apartment-prices/static/js/2.9757d05b.chunk.js.LICENSE.txt"
+    "static/js/2.2acdd788.chunk.js.LICENSE.txt": "/sf-apartment-prices/static/js/2.2acdd788.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f0f3bc5.js",
-    "static/js/2.9757d05b.chunk.js",
+    "static/js/runtime-main.67adc5cf.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.2acdd788.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.da66c208.chunk.js"
+    "static/js/main.7157e8ae.chunk.js"
   ]
 }
