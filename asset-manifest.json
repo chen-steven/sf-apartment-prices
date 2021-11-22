@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sf-apartment-prices/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/sf-apartment-prices/static/js/main.1597b9c8.chunk.js",
-    "main.js.map": "/sf-apartment-prices/static/js/main.1597b9c8.chunk.js.map",
+    "main.js": "/sf-apartment-prices/static/js/main.8330b85e.chunk.js",
+    "main.js.map": "/sf-apartment-prices/static/js/main.8330b85e.chunk.js.map",
     "runtime-main.js": "/sf-apartment-prices/static/js/runtime-main.67adc5cf.js",
     "runtime-main.js.map": "/sf-apartment-prices/static/js/runtime-main.67adc5cf.js.map",
     "static/css/2.a95be28f.chunk.css": "/sf-apartment-prices/static/css/2.a95be28f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.2acdd788.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.1597b9c8.chunk.js"
+    "static/js/main.8330b85e.chunk.js"
   ]
 }
