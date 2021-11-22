@@ -10,7 +10,8 @@ const nameMap = {
     "windsor": "Windsor",
     "340-fremont": "340 Fremont",
     "azure": "Azure",
-    "avalon-mb": "Avalon Mission Bay"
+    "avalon-mb": "Avalon Mission Bay",
+    "edgewater": "Edgewater"
 }
 export function PricePlot() {
     const [apartmentData, setApartmentData] = useState()
